@@ -1,0 +1,26 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/index.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dmytro-Ratoshniuk.com</title>
+  </head>
+  <body id="top">
+    <h1>Dmytro Ratoshniuk</h1>
+
+    <div class="nav">
+    <ul>
+    <li><a href="about.html">About</a></li>
+    <li><a href="https://www.blogger.com/blog/posts/599610480523986493">Blog</a></li>
+    <li><a href="https://github.com/skynifer/">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/dmytro-ratoshnuik/">LinkedIn</a></li>
+    <li><a href="http://twitter.com/d_ratoshniuk">Twitter</a></li>
+    <li><a href="mailto:ratoshnyuk.dima@gmail.com">E-Mail</a></li>
+    </ul>
+    </div>
+
+  </body>
+  </html>
